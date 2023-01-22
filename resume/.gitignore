@@ -1,0 +1,8 @@
+# LaTeX files to ignore
+*.gz
+*.aux
+*.fls
+*.xdv
+*.out
+*.log
+*.fdb_latexmk
