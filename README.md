@@ -1,7 +1,8 @@
 
 
-
-
+<div align="center">
+<img src="profile-banner.png" />
+</div>
 
 </br>
   
@@ -53,7 +54,7 @@ I specialise in all things AI from big data ETL to implementing machine learning
 
 </br>
 
-## Languages and Tools  
+### Languages and Tools  
 
 <div align="center">  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
