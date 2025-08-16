@@ -20,8 +20,6 @@ I'm a Data Scientist 👨‍🔬 with @pendingai leveraging data and AI for drug
  > 
 > 🏆 1,549 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 8 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
@@ -82,13 +80,6 @@ Shell                    2 repos             █░░░░░░░░░░�
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 Cypher                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JBercich/JBercich/main/assets/bar_graph.png)
-
 
  Last Updated on 15/08/2025 14:17:45 UTC
 <!--END_SECTION:waka-->
