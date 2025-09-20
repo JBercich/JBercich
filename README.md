@@ -10,8 +10,6 @@
 I'm a Data Scientist 👨‍🔬 with @pendingai leveraging data and AI for drug discovery. I graduated from the University of Sydney 🇦🇺 and Kyoto University 🇯🇵 studying CS and DS. But I enjoy mostly learning all and everything computer. Enjoying the road to help solve deep tech issues with innovative and sustainable methods.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2012%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -43,5 +41,5 @@ Cypher                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JBercich/JBercich/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 14:19:50 UTC
+ Last Updated on 20/09/2025 14:14:40 UTC
 <!--END_SECTION:waka-->
