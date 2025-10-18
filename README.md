@@ -10,7 +10,7 @@
 I'm a Data Scientist 👨‍🔬 with @pendingai leveraging data and AI for drug discovery. I graduated from the University of Sydney 🇦🇺 and Kyoto University 🇯🇵 studying CS and DS. But I enjoy mostly learning all and everything computer. Enjoying the road to help solve deep tech issues with innovative and sustainable methods.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -43,18 +43,18 @@ Sunday                   333 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   16 hrs 34 mins      ████████████████░░░░░░░░░   64.90 % 
-JSON                     2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-YAML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Bash                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Python                   19 hrs 39 mins      ██████████████████░░░░░░░   72.10 % 
+JSON                     2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Bash                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 56 mins      ██████████████████░░░░░░░   70.30 % 
-Mac                      7 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+Linux                    23 hrs 13 mins      █████████████████████░░░░   85.15 % 
+Mac                      4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 ```
 
 **I Mostly Code in Python** 
